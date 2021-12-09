@@ -1,0 +1,29 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-12-09T10:40:10-08:00"
+    },
+    {
+      "path": "contact.html",
+      "title": "Contact",
+      "description": "Contact us",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-12-09T10:40:11-08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "David's Website",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-12-09T10:40:11-08:00"
+    }
+  ],
+  "collections": []
+}
